@@ -1,9 +1,9 @@
 ---
-name: talent-architect-backend-ai-integration-skill
+name: backend-ai-architect
 description: Defines architectural and communication principles for frontend, backend, and AI system interactions.
 ---
 
-# Talent Architect Backend AI Integration Skill
+# Backend AI Architect Skill
 
 Defines conceptual rules for how frontend communicates with backend and AI systems.
 

@@ -1,15 +1,15 @@
 ---
-name: talent-architect-senior-skill
-description: Principal-level product development and architecture skill for the Talent Architect platform. Covers advanced frontend engineering, Next.js App Router patterns, React component architecture, React Hook Form, state management, system design, Firebase auth/session, and long-term platform stewardship. Use for any core or peripheral module, architecture decision, or technical authority question.
+name: senior-software-architect
+description: Principal-level product development and architecture skill for modern professional web platforms. Covers advanced frontend engineering, Next.js App Router patterns, React component architecture, React Hook Form, state management, system design, Firebase auth/session, and long-term platform stewardship. Use for any core or peripheral module, architecture decision, or technical authority question.
 ---
 
-# Talent Architect Senior Development Skill
+# Senior Software Architecture Skill
 
-Bu skill, Talent Architect platformunda principal mühendis standartlarıyla analiz, tasarım, implementasyon ve evrim döngüsünü tanımlar. Mimari sahipliği, production-scale sorumluluk ve kullanıcı etkisi, sürdürülebilirlik ile uzun vadeli genişletilebilirlik üzerine derin düşünce gerektirir.
+Bu skill, modern kurumsal yazılım platformlarında principal mühendis standartlarıyla analiz, tasarım, implementasyon ve evrim döngüsünü tanımlar. Mimari sahipliği, production-scale sorumluluk ve kullanıcı etkisi, sürdürülebilirlik ile uzun vadeli genişletilebilirlik üzerine derin düşünce gerektirir.
 
 ## When to use this skill
 
-- Talent Architect platformunun herhangi bir çekirdek veya çevresel modülünde çalışırken
+- Modern bir yazılım platformunun herhangi bir çekirdek veya çevresel modülünde çalışırken
 - Veri modellerini, akışları veya kullanıcı yolculuklarını etkileyen feature'lar eklenirken
 - Geriye dönük uyumluluğu koruyarak mimari evrim yapılırken
 - Gerçek kullanıcı etkisi olan UI, UX veya design system kararları verilirken
@@ -565,7 +565,7 @@ Proje şu an React 18. React 19'da gelecek değişiklikler:
 
 ---
 
-## 14. OpenRouter Entegrasyonu (Talent Architect)
+## 14. OpenRouter Entegrasyonu
 
 Proje `OPENROUTER_API_KEY` kullanıyor. `lib/server/ai/` altındaki shared AI infra üzerinden erişilmeli.
 
@@ -775,7 +775,7 @@ Herhangi bir bug veya beklenmedik davranışta şu sırayı takip et:
 
 ## 18. Mimari Örüntüler (Referans)
 
-### Clean Architecture Katmanları (Talent Architect'te)
+### Clean Architecture Katmanları
 
 ```
 features/{feature}/

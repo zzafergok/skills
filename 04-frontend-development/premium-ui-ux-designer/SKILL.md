@@ -1,11 +1,11 @@
 ---
-name: talent-architect-ui-ux-skill
-description: Principal-level UI/UX design and implementation skill for the Talent Architect platform. Covers design system architecture, Tailwind token usage, component patterns, aesthetic direction, accessibility, responsive design, animation, and UX writing. Use when designing, implementing, reviewing, or auditing any interface component, page, or user flow on the platform.
+name: premium-ui-ux-designer
+description: Principal-level UI/UX design and implementation skill for modern professional web platforms. Covers design system architecture, Tailwind token usage, component patterns, aesthetic direction, accessibility, responsive design, animation, and UX writing. Use when designing, implementing, reviewing, or auditing any interface component, page, or user flow on the platform.
 ---
 
-# Talent Architect UI/UX Skill
+# Premium UI/UX Design Skill
 
-Bu skill, Talent Architect platformunun tüm frontend tasarım ve implementasyon kararlarını yöneten tek kaynak dokümandır.
+Bu skill, modern kurumsal yazılım platformlarının tüm frontend tasarım ve implementasyon kararlarını yöneten tek kaynak dokümandır.
 
 ## When to use this skill
 
@@ -28,9 +28,10 @@ Bu skill, Talent Architect platformunun tüm frontend tasarım ve implementasyon
 
 ## 1. Design Philosophy
 
-### Talent Architect Estetik Yönü
+### Kurumsal Estetik Yönü
 
-Bu bir kariyer platformu. Hedef kullanıcı iş arayan profesyoneller. Tasarım dili:
+Bu bir profesyonel hizmet platformu.
+ Hedef kullanıcı iş arayan profesyoneller. Tasarım dili:
 
 - **Güven ve profesyonellik** — Fintech soğukluğu değil, koçluk sıcaklığı
 - **Bilişsel yük minimizasyonu** — İş arayışı zaten stresli; arayüz bu stresi artırmamalı
@@ -496,7 +497,7 @@ Kod yazmadan önce şu dört soruyu yanıtla:
 3. **Constraints**: Server/Client boundary, Radix primitifler, dark mode zorunlu
 4. **Differentiation**: Kullanıcının aklında kalacak bir şey var mı?
 
-### Tasarım Yönü Seçenekleri (Kariyer Platformu Bağlamı)
+### Tasarım Yönü Seçenekleri
 
 | Bağlam      | Ton                  | Örnek                                    |
 | ----------- | -------------------- | ---------------------------------------- |
@@ -652,7 +653,7 @@ const staggerVariants = {
 }
 ```
 
-### Kariyer Platformu için Ton Rehberi
+### Profesyonel Platformlar için Ton Rehberi
 
 | Sayfa       | Ton                     | Renk              | Font Tercihi              |
 | ----------- | ----------------------- | ----------------- | ------------------------- |
